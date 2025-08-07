@@ -1,6 +1,6 @@
 # Model Context Protocol (MCP) Sample Applications
 
-This repository contains sample applications demonstrating the use of Model Context Protocol (MCP) with various integration patterns.
+This repository contains sample applications demonstrating the use of Model Context Protocol (MCP) with various integration patterns.  These examples make use of the new MCP Server (Preview) feature in Azure APIM as well as demostrates how to make use of the tools being exposed via the remove MCP Server in APIM.
 
 ## Projects
 
